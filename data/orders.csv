@@ -1,0 +1,6 @@
+order_id,customer,amount,order_date
+1001,acme_corp,250.00,2026-08-01
+1002,globex,-45.00,2026-08-01
+1003,initech,1200.50,2026-08-02
+1004,umbrella,0.00,2026-08-02
+1005,soylent,89.99,2026-08-03
